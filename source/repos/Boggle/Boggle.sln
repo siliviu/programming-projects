@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Boggle", "Boggle\Boggle.csproj", "{BD59E3A9-0EB8-4079-A2C0-C91DB179DADE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD59E3A9-0EB8-4079-A2C0-C91DB179DADE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD59E3A9-0EB8-4079-A2C0-C91DB179DADE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD59E3A9-0EB8-4079-A2C0-C91DB179DADE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD59E3A9-0EB8-4079-A2C0-C91DB179DADE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24914BC0-B162-4CA9-A329-24ADC38D66ED}
+	EndGlobalSection
+EndGlobal

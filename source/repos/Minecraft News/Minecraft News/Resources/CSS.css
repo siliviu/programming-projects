@@ -1,0 +1,77 @@
+<style >
+.bbCodeSpoiler-button[value='Show'] + .bbCodeSpoiler-content, .button[value='Show'] + .SpoilerTarget {
+    visibility: hidden;
+    margin-top: -500%;
+    margin-bottom: 30px;
+}
+
+.bbCodeSpoiler-button[value='Hide'] + .bbCodeSpoiler-content, .button[value='Hide'] + .SpoilerTarget {
+    padding: 15px;
+    border: 1px solid #000;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.button, .bbCodeSpoiler-button {
+    padding: 4px;
+    font-size: 14px;
+    line-height: 20px;
+    color: #333333;
+    cursor: pointer;
+    background-color: #E0E0E0;
+    border: 1px solid #bbbbbb;
+    border-color: #e6e6e6 #e6e6e6 #bfbfbf;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+    .button:focus, .bbCodeSpoiler-button:focus {
+        outline: 0;
+        border: 0;
+    }
+
+    .button:hover, .bbCodeSpoiler-button:hover {
+        background-color: #404040;
+        color: white;
+    }
+
+[data-title]:hover:after {
+    opacity: 1;
+    transition: all 0.1s ease 0.5s;
+    visibility: visible;
+}
+
+[data-title]:after {
+    content: attr(data-title);
+    position: absolute;
+    top: -110%;
+    left: 50%;
+    -webkit-transform: translate(-50%, 0);
+    padding: 4px 4px 4px 8px;
+    white-space: nowrap;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    -moz-box-shadow: 0px 0px 4px #222;
+    -webkit-box-shadow: 0px 0px 4px #222;
+    box-shadow: 0px 0px 4px #222;
+    background-color: #404040;
+    color: white;
+    opacity: 0;
+    z-index: 99999;
+    visibility: hidden;
+}
+
+[data-title] {
+    position: relative;
+}
+
+img {
+    max-height: 100%;
+    max-width: 100%;
+}
+
+</style >

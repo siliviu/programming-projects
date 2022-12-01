@@ -1,0 +1,9 @@
+C:\Users\Liviu\source\repos\Objects\Objects\bin\Release\Objects.exe.config
+C:\Users\Liviu\source\repos\Objects\Objects\bin\Release\Objects.exe
+C:\Users\Liviu\source\repos\Objects\Objects\bin\Release\Objects.pdb
+C:\Users\Liviu\source\repos\Objects\Objects\obj\Release\Objects.Form1.resources
+C:\Users\Liviu\source\repos\Objects\Objects\obj\Release\Objects.Properties.Resources.resources
+C:\Users\Liviu\source\repos\Objects\Objects\obj\Release\Objects.csproj.GenerateResource.cache
+C:\Users\Liviu\source\repos\Objects\Objects\obj\Release\Objects.csproj.CoreCompileInputs.cache
+C:\Users\Liviu\source\repos\Objects\Objects\obj\Release\Objects.exe
+C:\Users\Liviu\source\repos\Objects\Objects\obj\Release\Objects.pdb

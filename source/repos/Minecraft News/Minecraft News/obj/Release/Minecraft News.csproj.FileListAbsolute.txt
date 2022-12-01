@@ -1,0 +1,15 @@
+C:\Users\Liviu\source\repos\Minecraft News\Minecraft News\bin\Release\Minecraft News.exe.config
+C:\Users\Liviu\source\repos\Minecraft News\Minecraft News\bin\Release\Minecraft News.exe
+C:\Users\Liviu\source\repos\Minecraft News\Minecraft News\bin\Release\Minecraft News.pdb
+C:\Users\Liviu\source\repos\Minecraft News\Minecraft News\bin\Release\HtmlAgilityPack.dll
+C:\Users\Liviu\source\repos\Minecraft News\Minecraft News\bin\Release\HtmlAgilityPack.pdb
+C:\Users\Liviu\source\repos\Minecraft News\Minecraft News\bin\Release\HtmlAgilityPack.xml
+C:\Users\Liviu\source\repos\Minecraft News\Minecraft News\obj\Release\Minecraft News.csprojAssemblyReference.cache
+C:\Users\Liviu\source\repos\Minecraft News\Minecraft News\obj\Release\Minecraft_News.Properties.Resources.resources
+C:\Users\Liviu\source\repos\Minecraft News\Minecraft News\obj\Release\Minecraft News.csproj.GenerateResource.cache
+C:\Users\Liviu\source\repos\Minecraft News\Minecraft News\obj\Release\Minecraft News.csproj.CoreCompileInputs.cache
+C:\Users\Liviu\source\repos\Minecraft News\Minecraft News\obj\Release\Minecraft News.csproj.CopyComplete
+C:\Users\Liviu\source\repos\Minecraft News\Minecraft News\obj\Release\Minecraft News.exe
+C:\Users\Liviu\source\repos\Minecraft News\Minecraft News\obj\Release\Minecraft News.pdb
+C:\Users\Liviu\source\repos\Minecraft News\Minecraft News\obj\Release\Minecraft_News.Form.resources
+C:\Users\Liviu\source\repos\Minecraft News\Minecraft News\obj\Release\Minecraft_News.Settings.resources

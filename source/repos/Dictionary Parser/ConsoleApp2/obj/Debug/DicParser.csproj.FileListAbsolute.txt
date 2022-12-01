@@ -1,0 +1,26 @@
+C:\Users\Liviu\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\Liviu\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\Liviu\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\Liviu\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\Bytescout.Spreadsheet.dll
+C:\Users\Liviu\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Liviu\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\Bytescout.Spreadsheet.xml
+C:\Users\Liviu\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Liviu\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Liviu\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\DicParser.csprojAssemblyReference.cache
+C:\Users\Liviu\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\DicParser.csproj.CoreCompileInputs.cache
+C:\Users\Liviu\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\DicParser.csproj.CopyComplete
+C:\Users\Liviu\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\Liviu\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+F:\Documents\programming projects\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+F:\Documents\programming projects\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+F:\Documents\programming projects\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+F:\Documents\programming projects\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\Bytescout.Spreadsheet.dll
+F:\Documents\programming projects\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\HtmlAgilityPack.dll
+F:\Documents\programming projects\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\Bytescout.Spreadsheet.xml
+F:\Documents\programming projects\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\HtmlAgilityPack.pdb
+F:\Documents\programming projects\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\HtmlAgilityPack.xml
+F:\Documents\programming projects\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\DicParser.csproj.AssemblyReference.cache
+F:\Documents\programming projects\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\DicParser.csproj.CoreCompileInputs.cache
+F:\Documents\programming projects\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\DicParser.csproj.CopyComplete
+F:\Documents\programming projects\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+F:\Documents\programming projects\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb

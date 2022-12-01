@@ -1,0 +1,19 @@
+C:\Users\Liviu\source\repos\Game Idea\Game Idea\obj\Debug\Game Idea.csprojAssemblyReference.cache
+C:\Users\Liviu\source\repos\Game Idea\Game Idea\obj\Debug\Game_Idea.Properties.Resources.resources
+C:\Users\Liviu\source\repos\Game Idea\Game Idea\obj\Debug\Game Idea.csproj.GenerateResource.cache
+C:\Users\Liviu\source\repos\Game Idea\Game Idea\obj\Debug\Game Idea.csproj.CoreCompileInputs.cache
+C:\Users\Liviu\source\repos\Game Idea\Game Idea\bin\Debug\Game Idea.exe.config
+C:\Users\Liviu\source\repos\Game Idea\Game Idea\bin\Debug\Game Idea.exe
+C:\Users\Liviu\source\repos\Game Idea\Game Idea\bin\Debug\Game Idea.pdb
+C:\Users\Liviu\source\repos\Game Idea\Game Idea\obj\Debug\Game Idea.exe
+C:\Users\Liviu\source\repos\Game Idea\Game Idea\obj\Debug\Game Idea.pdb
+C:\Users\LLiviu\source\repos\Game Idea\Game Idea\bin\Debug\Game Idea.exe.config
+C:\Users\LLiviu\source\repos\Game Idea\Game Idea\bin\Debug\Game Idea.exe
+C:\Users\LLiviu\source\repos\Game Idea\Game Idea\bin\Debug\Game Idea.pdb
+C:\Users\LLiviu\source\repos\Game Idea\Game Idea\obj\Debug\Game Idea.csproj.AssemblyReference.cache
+C:\Users\LLiviu\source\repos\Game Idea\Game Idea\obj\Debug\Game_Idea.Properties.Resources.resources
+C:\Users\LLiviu\source\repos\Game Idea\Game Idea\obj\Debug\Game Idea.csproj.GenerateResource.cache
+C:\Users\LLiviu\source\repos\Game Idea\Game Idea\obj\Debug\Game Idea.csproj.CoreCompileInputs.cache
+C:\Users\LLiviu\source\repos\Game Idea\Game Idea\obj\Debug\Game Idea.exe
+C:\Users\LLiviu\source\repos\Game Idea\Game Idea\obj\Debug\Game Idea.pdb
+C:\Users\LLiviu\source\repos\Game Idea\Game Idea\obj\Debug\Game_Idea.Form1.resources

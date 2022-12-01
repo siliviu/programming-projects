@@ -1,0 +1,195 @@
+C:\Users\Liviu\source\repos\Minecraft News\Minecraft News\bin\x64\Release\cef.pak
+C:\Users\Liviu\source\repos\Minecraft News\Minecraft News\bin\x64\Release\cef_100_percent.pak
+C:\Users\Liviu\source\repos\Minecraft News\Minecraft News\bin\x64\Release\cef_200_percent.pak
+C:\Users\Liviu\source\repos\Minecraft News\Minecraft News\bin\x64\Release\cef_extensions.pak
+C:\Users\Liviu\source\repos\Minecraft News\Minecraft News\bin\x64\Release\chrome_elf.dll
+C:\Users\Liviu\source\repos\Minecraft News\Minecraft News\bin\x64\Release\d3dcompiler_47.dll
+C:\Users\Liviu\source\repos\Minecraft News\Minecraft News\bin\x64\Release\devtools_resources.pak
+C:\Users\Liviu\source\repos\Minecraft News\Minecraft News\bin\x64\Release\icudtl.dat
+C:\Users\Liviu\source\repos\Minecraft News\Minecraft News\bin\x64\Release\libcef.dll
+C:\Users\Liviu\source\repos\Minecraft News\Minecraft News\bin\x64\Release\libEGL.dll
+C:\Users\Liviu\source\repos\Minecraft News\Minecraft News\bin\x64\Release\libGLESv2.dll
+C:\Users\Liviu\source\repos\Minecraft News\Minecraft News\bin\x64\Release\locales\am.pak
+C:\Users\Liviu\source\repos\Minecraft News\Minecraft News\bin\x64\Release\locales\ar.pak
+C:\Users\Liviu\source\repos\Minecraft News\Minecraft News\bin\x64\Release\locales\bg.pak
+C:\Users\Liviu\source\repos\Minecraft News\Minecraft News\bin\x64\Release\locales\bn.pak
+C:\Users\Liviu\source\repos\Minecraft News\Minecraft News\bin\x64\Release\locales\ca.pak
+C:\Users\Liviu\source\repos\Minecraft News\Minecraft News\bin\x64\Release\locales\cs.pak
+C:\Users\Liviu\source\repos\Minecraft News\Minecraft News\bin\x64\Release\locales\da.pak
+C:\Users\Liviu\source\repos\Minecraft News\Minecraft News\bin\x64\Release\locales\de.pak
+C:\Users\Liviu\source\repos\Minecraft News\Minecraft News\bin\x64\Release\locales\el.pak
+C:\Users\Liviu\source\repos\Minecraft News\Minecraft News\bin\x64\Release\locales\en-GB.pak
+C:\Users\Liviu\source\repos\Minecraft News\Minecraft News\bin\x64\Release\locales\en-US.pak
+C:\Users\Liviu\source\repos\Minecraft News\Minecraft News\bin\x64\Release\locales\es-419.pak
+C:\Users\Liviu\source\repos\Minecraft News\Minecraft News\bin\x64\Release\locales\es.pak
+C:\Users\Liviu\source\repos\Minecraft News\Minecraft News\bin\x64\Release\locales\et.pak
+C:\Users\Liviu\source\repos\Minecraft News\Minecraft News\bin\x64\Release\locales\fa.pak
+C:\Users\Liviu\source\repos\Minecraft News\Minecraft News\bin\x64\Release\locales\fi.pak
+C:\Users\Liviu\source\repos\Minecraft News\Minecraft News\bin\x64\Release\locales\fil.pak
+C:\Users\Liviu\source\repos\Minecraft News\Minecraft News\bin\x64\Release\locales\fr.pak
+C:\Users\Liviu\source\repos\Minecraft News\Minecraft News\bin\x64\Release\locales\gu.pak
+C:\Users\Liviu\source\repos\Minecraft News\Minecraft News\bin\x64\Release\locales\he.pak
+C:\Users\Liviu\source\repos\Minecraft News\Minecraft News\bin\x64\Release\locales\hi.pak
+C:\Users\Liviu\source\repos\Minecraft News\Minecraft News\bin\x64\Release\locales\hr.pak
+C:\Users\Liviu\source\repos\Minecraft News\Minecraft News\bin\x64\Release\locales\hu.pak
+C:\Users\Liviu\source\repos\Minecraft News\Minecraft News\bin\x64\Release\locales\id.pak
+C:\Users\Liviu\source\repos\Minecraft News\Minecraft News\bin\x64\Release\locales\it.pak
+C:\Users\Liviu\source\repos\Minecraft News\Minecraft News\bin\x64\Release\locales\ja.pak
+C:\Users\Liviu\source\repos\Minecraft News\Minecraft News\bin\x64\Release\locales\kn.pak
+C:\Users\Liviu\source\repos\Minecraft News\Minecraft News\bin\x64\Release\locales\ko.pak
+C:\Users\Liviu\source\repos\Minecraft News\Minecraft News\bin\x64\Release\locales\lt.pak
+C:\Users\Liviu\source\repos\Minecraft News\Minecraft News\bin\x64\Release\locales\lv.pak
+C:\Users\Liviu\source\repos\Minecraft News\Minecraft News\bin\x64\Release\locales\ml.pak
+C:\Users\Liviu\source\repos\Minecraft News\Minecraft News\bin\x64\Release\locales\mr.pak
+C:\Users\Liviu\source\repos\Minecraft News\Minecraft News\bin\x64\Release\locales\ms.pak
+C:\Users\Liviu\source\repos\Minecraft News\Minecraft News\bin\x64\Release\locales\nb.pak
+C:\Users\Liviu\source\repos\Minecraft News\Minecraft News\bin\x64\Release\locales\nl.pak
+C:\Users\Liviu\source\repos\Minecraft News\Minecraft News\bin\x64\Release\locales\pl.pak
+C:\Users\Liviu\source\repos\Minecraft News\Minecraft News\bin\x64\Release\locales\pt-BR.pak
+C:\Users\Liviu\source\repos\Minecraft News\Minecraft News\bin\x64\Release\locales\pt-PT.pak
+C:\Users\Liviu\source\repos\Minecraft News\Minecraft News\bin\x64\Release\locales\ro.pak
+C:\Users\Liviu\source\repos\Minecraft News\Minecraft News\bin\x64\Release\locales\ru.pak
+C:\Users\Liviu\source\repos\Minecraft News\Minecraft News\bin\x64\Release\locales\sk.pak
+C:\Users\Liviu\source\repos\Minecraft News\Minecraft News\bin\x64\Release\locales\sl.pak
+C:\Users\Liviu\source\repos\Minecraft News\Minecraft News\bin\x64\Release\locales\sr.pak
+C:\Users\Liviu\source\repos\Minecraft News\Minecraft News\bin\x64\Release\locales\sv.pak
+C:\Users\Liviu\source\repos\Minecraft News\Minecraft News\bin\x64\Release\locales\sw.pak
+C:\Users\Liviu\source\repos\Minecraft News\Minecraft News\bin\x64\Release\locales\ta.pak
+C:\Users\Liviu\source\repos\Minecraft News\Minecraft News\bin\x64\Release\locales\te.pak
+C:\Users\Liviu\source\repos\Minecraft News\Minecraft News\bin\x64\Release\locales\th.pak
+C:\Users\Liviu\source\repos\Minecraft News\Minecraft News\bin\x64\Release\locales\tr.pak
+C:\Users\Liviu\source\repos\Minecraft News\Minecraft News\bin\x64\Release\locales\uk.pak
+C:\Users\Liviu\source\repos\Minecraft News\Minecraft News\bin\x64\Release\locales\vi.pak
+C:\Users\Liviu\source\repos\Minecraft News\Minecraft News\bin\x64\Release\locales\zh-CN.pak
+C:\Users\Liviu\source\repos\Minecraft News\Minecraft News\bin\x64\Release\locales\zh-TW.pak
+C:\Users\Liviu\source\repos\Minecraft News\Minecraft News\bin\x64\Release\natives_blob.bin
+C:\Users\Liviu\source\repos\Minecraft News\Minecraft News\bin\x64\Release\README.txt
+C:\Users\Liviu\source\repos\Minecraft News\Minecraft News\bin\x64\Release\snapshot_blob.bin
+C:\Users\Liviu\source\repos\Minecraft News\Minecraft News\bin\x64\Release\swiftshader\libEGL.dll
+C:\Users\Liviu\source\repos\Minecraft News\Minecraft News\bin\x64\Release\swiftshader\libGLESv2.dll
+C:\Users\Liviu\source\repos\Minecraft News\Minecraft News\bin\x64\Release\v8_context_snapshot.bin
+C:\Users\Liviu\source\repos\Minecraft News\Minecraft News\bin\x64\Release\CefSharp.BrowserSubprocess.Core.dll
+C:\Users\Liviu\source\repos\Minecraft News\Minecraft News\bin\x64\Release\CefSharp.BrowserSubprocess.Core.pdb
+C:\Users\Liviu\source\repos\Minecraft News\Minecraft News\bin\x64\Release\CefSharp.BrowserSubprocess.exe
+C:\Users\Liviu\source\repos\Minecraft News\Minecraft News\bin\x64\Release\CefSharp.BrowserSubprocess.pdb
+C:\Users\Liviu\source\repos\Minecraft News\Minecraft News\bin\x64\Release\CefSharp.Core.dll
+C:\Users\Liviu\source\repos\Minecraft News\Minecraft News\bin\x64\Release\CefSharp.Core.pdb
+C:\Users\Liviu\source\repos\Minecraft News\Minecraft News\bin\x64\Release\CefSharp.Core.xml
+C:\Users\Liviu\source\repos\Minecraft News\Minecraft News\bin\x64\Release\CefSharp.dll
+C:\Users\Liviu\source\repos\Minecraft News\Minecraft News\bin\x64\Release\CefSharp.pdb
+C:\Users\Liviu\source\repos\Minecraft News\Minecraft News\bin\x64\Release\CefSharp.XML
+C:\Users\Liviu\source\repos\Minecraft News\Minecraft News\bin\x64\Release\CefSharp.WinForms.dll
+C:\Users\Liviu\source\repos\Minecraft News\Minecraft News\bin\x64\Release\CefSharp.WinForms.pdb
+C:\Users\Liviu\source\repos\Minecraft News\Minecraft News\bin\x64\Release\CefSharp.WinForms.XML
+C:\Users\Liviu\source\repos\Minecraft News\Minecraft News\bin\x64\Release\Minecraft News.exe.config
+C:\Users\Liviu\source\repos\Minecraft News\Minecraft News\bin\x64\Release\Minecraft News.exe
+C:\Users\Liviu\source\repos\Minecraft News\Minecraft News\bin\x64\Release\Minecraft News.pdb
+C:\Users\Liviu\source\repos\Minecraft News\Minecraft News\bin\x64\Release\HtmlAgilityPack.dll
+C:\Users\Liviu\source\repos\Minecraft News\Minecraft News\bin\x64\Release\HtmlAgilityPack.pdb
+C:\Users\Liviu\source\repos\Minecraft News\Minecraft News\bin\x64\Release\HtmlAgilityPack.xml
+C:\Users\Liviu\source\repos\Minecraft News\Minecraft News\obj\x64\Release\Minecraft News.csprojAssemblyReference.cache
+C:\Users\Liviu\source\repos\Minecraft News\Minecraft News\obj\x64\Release\Minecraft_News.Form.resources
+C:\Users\Liviu\source\repos\Minecraft News\Minecraft News\obj\x64\Release\Minecraft_News.Properties.Resources.resources
+C:\Users\Liviu\source\repos\Minecraft News\Minecraft News\obj\x64\Release\Minecraft_News.Settings.resources
+C:\Users\Liviu\source\repos\Minecraft News\Minecraft News\obj\x64\Release\Minecraft News.csproj.GenerateResource.cache
+C:\Users\Liviu\source\repos\Minecraft News\Minecraft News\obj\x64\Release\Minecraft News.csproj.CopyComplete
+C:\Users\Liviu\source\repos\Minecraft News\Minecraft News\obj\x64\Release\Minecraft News.exe
+C:\Users\Liviu\source\repos\Minecraft News\Minecraft News\obj\x64\Release\Minecraft News.pdb
+F:\Documents\programming projects\source\repos\Minecraft News\Minecraft News\bin\x64\Release\cef.pak
+F:\Documents\programming projects\source\repos\Minecraft News\Minecraft News\bin\x64\Release\cef_100_percent.pak
+F:\Documents\programming projects\source\repos\Minecraft News\Minecraft News\bin\x64\Release\cef_200_percent.pak
+F:\Documents\programming projects\source\repos\Minecraft News\Minecraft News\bin\x64\Release\cef_extensions.pak
+F:\Documents\programming projects\source\repos\Minecraft News\Minecraft News\bin\x64\Release\chrome_elf.dll
+F:\Documents\programming projects\source\repos\Minecraft News\Minecraft News\bin\x64\Release\d3dcompiler_47.dll
+F:\Documents\programming projects\source\repos\Minecraft News\Minecraft News\bin\x64\Release\devtools_resources.pak
+F:\Documents\programming projects\source\repos\Minecraft News\Minecraft News\bin\x64\Release\icudtl.dat
+F:\Documents\programming projects\source\repos\Minecraft News\Minecraft News\bin\x64\Release\libcef.dll
+F:\Documents\programming projects\source\repos\Minecraft News\Minecraft News\bin\x64\Release\libEGL.dll
+F:\Documents\programming projects\source\repos\Minecraft News\Minecraft News\bin\x64\Release\libGLESv2.dll
+F:\Documents\programming projects\source\repos\Minecraft News\Minecraft News\bin\x64\Release\locales\am.pak
+F:\Documents\programming projects\source\repos\Minecraft News\Minecraft News\bin\x64\Release\locales\ar.pak
+F:\Documents\programming projects\source\repos\Minecraft News\Minecraft News\bin\x64\Release\locales\bg.pak
+F:\Documents\programming projects\source\repos\Minecraft News\Minecraft News\bin\x64\Release\locales\bn.pak
+F:\Documents\programming projects\source\repos\Minecraft News\Minecraft News\bin\x64\Release\locales\ca.pak
+F:\Documents\programming projects\source\repos\Minecraft News\Minecraft News\bin\x64\Release\locales\cs.pak
+F:\Documents\programming projects\source\repos\Minecraft News\Minecraft News\bin\x64\Release\locales\da.pak
+F:\Documents\programming projects\source\repos\Minecraft News\Minecraft News\bin\x64\Release\locales\de.pak
+F:\Documents\programming projects\source\repos\Minecraft News\Minecraft News\bin\x64\Release\locales\el.pak
+F:\Documents\programming projects\source\repos\Minecraft News\Minecraft News\bin\x64\Release\locales\en-GB.pak
+F:\Documents\programming projects\source\repos\Minecraft News\Minecraft News\bin\x64\Release\locales\en-US.pak
+F:\Documents\programming projects\source\repos\Minecraft News\Minecraft News\bin\x64\Release\locales\es-419.pak
+F:\Documents\programming projects\source\repos\Minecraft News\Minecraft News\bin\x64\Release\locales\es.pak
+F:\Documents\programming projects\source\repos\Minecraft News\Minecraft News\bin\x64\Release\locales\et.pak
+F:\Documents\programming projects\source\repos\Minecraft News\Minecraft News\bin\x64\Release\locales\fa.pak
+F:\Documents\programming projects\source\repos\Minecraft News\Minecraft News\bin\x64\Release\locales\fi.pak
+F:\Documents\programming projects\source\repos\Minecraft News\Minecraft News\bin\x64\Release\locales\fil.pak
+F:\Documents\programming projects\source\repos\Minecraft News\Minecraft News\bin\x64\Release\locales\fr.pak
+F:\Documents\programming projects\source\repos\Minecraft News\Minecraft News\bin\x64\Release\locales\gu.pak
+F:\Documents\programming projects\source\repos\Minecraft News\Minecraft News\bin\x64\Release\locales\he.pak
+F:\Documents\programming projects\source\repos\Minecraft News\Minecraft News\bin\x64\Release\locales\hi.pak
+F:\Documents\programming projects\source\repos\Minecraft News\Minecraft News\bin\x64\Release\locales\hr.pak
+F:\Documents\programming projects\source\repos\Minecraft News\Minecraft News\bin\x64\Release\locales\hu.pak
+F:\Documents\programming projects\source\repos\Minecraft News\Minecraft News\bin\x64\Release\locales\id.pak
+F:\Documents\programming projects\source\repos\Minecraft News\Minecraft News\bin\x64\Release\locales\it.pak
+F:\Documents\programming projects\source\repos\Minecraft News\Minecraft News\bin\x64\Release\locales\ja.pak
+F:\Documents\programming projects\source\repos\Minecraft News\Minecraft News\bin\x64\Release\locales\kn.pak
+F:\Documents\programming projects\source\repos\Minecraft News\Minecraft News\bin\x64\Release\locales\ko.pak
+F:\Documents\programming projects\source\repos\Minecraft News\Minecraft News\bin\x64\Release\locales\lt.pak
+F:\Documents\programming projects\source\repos\Minecraft News\Minecraft News\bin\x64\Release\locales\lv.pak
+F:\Documents\programming projects\source\repos\Minecraft News\Minecraft News\bin\x64\Release\locales\ml.pak
+F:\Documents\programming projects\source\repos\Minecraft News\Minecraft News\bin\x64\Release\locales\mr.pak
+F:\Documents\programming projects\source\repos\Minecraft News\Minecraft News\bin\x64\Release\locales\ms.pak
+F:\Documents\programming projects\source\repos\Minecraft News\Minecraft News\bin\x64\Release\locales\nb.pak
+F:\Documents\programming projects\source\repos\Minecraft News\Minecraft News\bin\x64\Release\locales\nl.pak
+F:\Documents\programming projects\source\repos\Minecraft News\Minecraft News\bin\x64\Release\locales\pl.pak
+F:\Documents\programming projects\source\repos\Minecraft News\Minecraft News\bin\x64\Release\locales\pt-BR.pak
+F:\Documents\programming projects\source\repos\Minecraft News\Minecraft News\bin\x64\Release\locales\pt-PT.pak
+F:\Documents\programming projects\source\repos\Minecraft News\Minecraft News\bin\x64\Release\locales\ro.pak
+F:\Documents\programming projects\source\repos\Minecraft News\Minecraft News\bin\x64\Release\locales\ru.pak
+F:\Documents\programming projects\source\repos\Minecraft News\Minecraft News\bin\x64\Release\locales\sk.pak
+F:\Documents\programming projects\source\repos\Minecraft News\Minecraft News\bin\x64\Release\locales\sl.pak
+F:\Documents\programming projects\source\repos\Minecraft News\Minecraft News\bin\x64\Release\locales\sr.pak
+F:\Documents\programming projects\source\repos\Minecraft News\Minecraft News\bin\x64\Release\locales\sv.pak
+F:\Documents\programming projects\source\repos\Minecraft News\Minecraft News\bin\x64\Release\locales\sw.pak
+F:\Documents\programming projects\source\repos\Minecraft News\Minecraft News\bin\x64\Release\locales\ta.pak
+F:\Documents\programming projects\source\repos\Minecraft News\Minecraft News\bin\x64\Release\locales\te.pak
+F:\Documents\programming projects\source\repos\Minecraft News\Minecraft News\bin\x64\Release\locales\th.pak
+F:\Documents\programming projects\source\repos\Minecraft News\Minecraft News\bin\x64\Release\locales\tr.pak
+F:\Documents\programming projects\source\repos\Minecraft News\Minecraft News\bin\x64\Release\locales\uk.pak
+F:\Documents\programming projects\source\repos\Minecraft News\Minecraft News\bin\x64\Release\locales\vi.pak
+F:\Documents\programming projects\source\repos\Minecraft News\Minecraft News\bin\x64\Release\locales\zh-CN.pak
+F:\Documents\programming projects\source\repos\Minecraft News\Minecraft News\bin\x64\Release\locales\zh-TW.pak
+F:\Documents\programming projects\source\repos\Minecraft News\Minecraft News\bin\x64\Release\natives_blob.bin
+F:\Documents\programming projects\source\repos\Minecraft News\Minecraft News\bin\x64\Release\README.txt
+F:\Documents\programming projects\source\repos\Minecraft News\Minecraft News\bin\x64\Release\snapshot_blob.bin
+F:\Documents\programming projects\source\repos\Minecraft News\Minecraft News\bin\x64\Release\swiftshader\libEGL.dll
+F:\Documents\programming projects\source\repos\Minecraft News\Minecraft News\bin\x64\Release\swiftshader\libGLESv2.dll
+F:\Documents\programming projects\source\repos\Minecraft News\Minecraft News\bin\x64\Release\v8_context_snapshot.bin
+F:\Documents\programming projects\source\repos\Minecraft News\Minecraft News\bin\x64\Release\CefSharp.BrowserSubprocess.Core.dll
+F:\Documents\programming projects\source\repos\Minecraft News\Minecraft News\bin\x64\Release\CefSharp.BrowserSubprocess.Core.pdb
+F:\Documents\programming projects\source\repos\Minecraft News\Minecraft News\bin\x64\Release\CefSharp.BrowserSubprocess.exe
+F:\Documents\programming projects\source\repos\Minecraft News\Minecraft News\bin\x64\Release\CefSharp.BrowserSubprocess.pdb
+F:\Documents\programming projects\source\repos\Minecraft News\Minecraft News\bin\x64\Release\CefSharp.Core.dll
+F:\Documents\programming projects\source\repos\Minecraft News\Minecraft News\bin\x64\Release\CefSharp.Core.pdb
+F:\Documents\programming projects\source\repos\Minecraft News\Minecraft News\bin\x64\Release\CefSharp.Core.xml
+F:\Documents\programming projects\source\repos\Minecraft News\Minecraft News\bin\x64\Release\CefSharp.dll
+F:\Documents\programming projects\source\repos\Minecraft News\Minecraft News\bin\x64\Release\CefSharp.pdb
+F:\Documents\programming projects\source\repos\Minecraft News\Minecraft News\bin\x64\Release\CefSharp.XML
+F:\Documents\programming projects\source\repos\Minecraft News\Minecraft News\bin\x64\Release\CefSharp.WinForms.dll
+F:\Documents\programming projects\source\repos\Minecraft News\Minecraft News\bin\x64\Release\CefSharp.WinForms.pdb
+F:\Documents\programming projects\source\repos\Minecraft News\Minecraft News\bin\x64\Release\CefSharp.WinForms.XML
+F:\Documents\programming projects\source\repos\Minecraft News\Minecraft News\bin\x64\Release\Minecraft News.exe.config
+F:\Documents\programming projects\source\repos\Minecraft News\Minecraft News\bin\x64\Release\Minecraft News.exe
+F:\Documents\programming projects\source\repos\Minecraft News\Minecraft News\bin\x64\Release\Minecraft News.pdb
+F:\Documents\programming projects\source\repos\Minecraft News\Minecraft News\bin\x64\Release\HtmlAgilityPack.dll
+F:\Documents\programming projects\source\repos\Minecraft News\Minecraft News\bin\x64\Release\HtmlAgilityPack.pdb
+F:\Documents\programming projects\source\repos\Minecraft News\Minecraft News\bin\x64\Release\HtmlAgilityPack.xml
+F:\Documents\programming projects\source\repos\Minecraft News\Minecraft News\obj\x64\Release\Minecraft News.csproj.AssemblyReference.cache
+F:\Documents\programming projects\source\repos\Minecraft News\Minecraft News\obj\x64\Release\Minecraft_News.Form.resources
+F:\Documents\programming projects\source\repos\Minecraft News\Minecraft News\obj\x64\Release\Minecraft_News.Properties.Resources.resources
+F:\Documents\programming projects\source\repos\Minecraft News\Minecraft News\obj\x64\Release\Minecraft_News.Settings.resources
+F:\Documents\programming projects\source\repos\Minecraft News\Minecraft News\obj\x64\Release\Minecraft News.csproj.GenerateResource.cache
+F:\Documents\programming projects\source\repos\Minecraft News\Minecraft News\obj\x64\Release\Minecraft News.csproj.CoreCompileInputs.cache
+F:\Documents\programming projects\source\repos\Minecraft News\Minecraft News\obj\x64\Release\Minecraft News.csproj.CopyComplete
+F:\Documents\programming projects\source\repos\Minecraft News\Minecraft News\obj\x64\Release\Minecraft News.exe
+F:\Documents\programming projects\source\repos\Minecraft News\Minecraft News\obj\x64\Release\Minecraft News.pdb

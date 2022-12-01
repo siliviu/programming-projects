@@ -1,0 +1,11 @@
+C:\Users\Liviu\source\repos\Generating complex numbers from a circle\Generating complex numbers from a circle\bin\Debug\netcoreapp3.0\Generating complex numbers from a circle.exe
+C:\Users\Liviu\source\repos\Generating complex numbers from a circle\Generating complex numbers from a circle\bin\Debug\netcoreapp3.0\Generating complex numbers from a circle.deps.json
+C:\Users\Liviu\source\repos\Generating complex numbers from a circle\Generating complex numbers from a circle\bin\Debug\netcoreapp3.0\Generating complex numbers from a circle.runtimeconfig.json
+C:\Users\Liviu\source\repos\Generating complex numbers from a circle\Generating complex numbers from a circle\bin\Debug\netcoreapp3.0\Generating complex numbers from a circle.runtimeconfig.dev.json
+C:\Users\Liviu\source\repos\Generating complex numbers from a circle\Generating complex numbers from a circle\bin\Debug\netcoreapp3.0\Generating complex numbers from a circle.dll
+C:\Users\Liviu\source\repos\Generating complex numbers from a circle\Generating complex numbers from a circle\bin\Debug\netcoreapp3.0\Generating complex numbers from a circle.pdb
+C:\Users\Liviu\source\repos\Generating complex numbers from a circle\Generating complex numbers from a circle\obj\Debug\netcoreapp3.0\Generating complex numbers from a circle.csprojAssemblyReference.cache
+C:\Users\Liviu\source\repos\Generating complex numbers from a circle\Generating complex numbers from a circle\obj\Debug\netcoreapp3.0\Generating complex numbers from a circle.AssemblyInfoInputs.cache
+C:\Users\Liviu\source\repos\Generating complex numbers from a circle\Generating complex numbers from a circle\obj\Debug\netcoreapp3.0\Generating complex numbers from a circle.AssemblyInfo.cs
+C:\Users\Liviu\source\repos\Generating complex numbers from a circle\Generating complex numbers from a circle\obj\Debug\netcoreapp3.0\Generating complex numbers from a circle.dll
+C:\Users\Liviu\source\repos\Generating complex numbers from a circle\Generating complex numbers from a circle\obj\Debug\netcoreapp3.0\Generating complex numbers from a circle.pdb

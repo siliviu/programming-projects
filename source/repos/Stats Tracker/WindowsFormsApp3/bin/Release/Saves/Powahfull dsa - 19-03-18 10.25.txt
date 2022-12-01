@@ -1,0 +1,38 @@
+Username : Powahfull dsa
+
+
+Overall 
+
+Matches : 1754
+Wins : 45
+Winrate : 2.57%
+Kills : 1669
+K/D : 0.98
+K/M : 0.95
+
+Solo 
+
+Matches : 504
+Wins : 6
+Winrate : 1.19%
+Kills : 606
+K/D : 1.22
+K/M : 1.20
+
+Duos 
+
+Matches : 905
+Wins : 6
+Winrate : 0.66%
+Kills : 759
+K/D : 0.84
+K/M : 0.84
+
+Squads 
+
+Matches : 345
+Wins : 33
+Winrate : 9.57%
+Kills : 304
+K/D : 0.97
+K/M : 0.88

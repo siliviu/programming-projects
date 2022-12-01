@@ -1,0 +1,10 @@
+C:\Users\Liviu\source\repos\Objects\Objects\obj\Debug\Objects.csprojAssemblyReference.cache
+C:\Users\Liviu\source\repos\Objects\Objects\obj\Debug\Objects.Form1.resources
+C:\Users\Liviu\source\repos\Objects\Objects\obj\Debug\Objects.Properties.Resources.resources
+C:\Users\Liviu\source\repos\Objects\Objects\obj\Debug\Objects.csproj.GenerateResource.cache
+C:\Users\Liviu\source\repos\Objects\Objects\obj\Debug\Objects.csproj.CoreCompileInputs.cache
+C:\Users\Liviu\source\repos\Objects\Objects\bin\Debug\Objects.exe.config
+C:\Users\Liviu\source\repos\Objects\Objects\bin\Debug\Objects.exe
+C:\Users\Liviu\source\repos\Objects\Objects\bin\Debug\Objects.pdb
+C:\Users\Liviu\source\repos\Objects\Objects\obj\Debug\Objects.exe
+C:\Users\Liviu\source\repos\Objects\Objects\obj\Debug\Objects.pdb

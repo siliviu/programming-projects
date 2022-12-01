@@ -1,0 +1,38 @@
+Username : staarlights_
+
+
+Overall 
+
+Matches : 2495
+Wins : 55
+Winrate : 2.20%
+Kills : 1907
+K/D : 0.78
+K/M : 0.76
+
+Solo 
+
+Matches : 1419
+Wins : 6
+Winrate : 0.42%
+Kills : 1215
+K/D : 0.86
+K/M : 0.86
+
+Duos 
+
+Matches : 766
+Wins : 20
+Winrate : 2.61%
+Kills : 505
+K/D : 0.68
+K/M : 0.66
+
+Squads 
+
+Matches : 310
+Wins : 29
+Winrate : 9.35%
+Kills : 187
+K/D : 0.67
+K/M : 0.60

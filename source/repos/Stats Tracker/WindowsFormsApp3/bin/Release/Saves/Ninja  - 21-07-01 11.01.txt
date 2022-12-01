@@ -1,0 +1,38 @@
+Username :  Ninja 
+
+
+Overall 
+
+Matches : 20612
+Wins : 7501
+Winrate : 36.39%
+Kills : 131826
+K/D : 10.05
+K/M : 6.40
+
+Solo 
+
+Matches : 6806
+Wins : 2223
+Winrate : 32.66%
+Kills : 47226
+K/D : 10.30
+K/M : 6.94
+
+Duos 
+
+Matches : 6613
+Wins : 2558
+Winrate : 38.68%
+Kills : 40319
+K/D : 9.94
+K/M : 6.10
+
+Squads 
+
+Matches : 7193
+Wins : 2720
+Winrate : 37.81%
+Kills : 44281
+K/D : 9.90
+K/M : 6.16

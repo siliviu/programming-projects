@@ -1,0 +1,13 @@
+C:\Users\Liviu\source\repos\Physics\Physics\bin\Debug\netcoreapp3.1\Physics.exe
+C:\Users\Liviu\source\repos\Physics\Physics\bin\Debug\netcoreapp3.1\Physics.deps.json
+C:\Users\Liviu\source\repos\Physics\Physics\bin\Debug\netcoreapp3.1\Physics.runtimeconfig.json
+C:\Users\Liviu\source\repos\Physics\Physics\bin\Debug\netcoreapp3.1\Physics.runtimeconfig.dev.json
+C:\Users\Liviu\source\repos\Physics\Physics\bin\Debug\netcoreapp3.1\Physics.dll
+C:\Users\Liviu\source\repos\Physics\Physics\bin\Debug\netcoreapp3.1\Physics.pdb
+C:\Users\Liviu\source\repos\Physics\Physics\obj\Debug\netcoreapp3.1\Physics.csprojAssemblyReference.cache
+C:\Users\Liviu\source\repos\Physics\Physics\obj\Debug\netcoreapp3.1\Physics.AssemblyInfoInputs.cache
+C:\Users\Liviu\source\repos\Physics\Physics\obj\Debug\netcoreapp3.1\Physics.AssemblyInfo.cs
+C:\Users\Liviu\source\repos\Physics\Physics\obj\Debug\netcoreapp3.1\Physics.csproj.CoreCompileInputs.cache
+C:\Users\Liviu\source\repos\Physics\Physics\obj\Debug\netcoreapp3.1\Physics.dll
+C:\Users\Liviu\source\repos\Physics\Physics\obj\Debug\netcoreapp3.1\Physics.pdb
+C:\Users\Liviu\source\repos\Physics\Physics\obj\Debug\netcoreapp3.1\Physics.genruntimeconfig.cache

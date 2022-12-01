@@ -1,0 +1,40 @@
+C:\Users\Liviu\source\repos\Physics\Physics\bin\Debug\netcoreapp3.1\Physics.exe
+C:\Users\Liviu\source\repos\Physics\Physics\bin\Debug\netcoreapp3.1\Physics.deps.json
+C:\Users\Liviu\source\repos\Physics\Physics\bin\Debug\netcoreapp3.1\Physics.runtimeconfig.json
+C:\Users\Liviu\source\repos\Physics\Physics\bin\Debug\netcoreapp3.1\Physics.runtimeconfig.dev.json
+C:\Users\Liviu\source\repos\Physics\Physics\bin\Debug\netcoreapp3.1\Physics.dll
+C:\Users\Liviu\source\repos\Physics\Physics\bin\Debug\netcoreapp3.1\Physics.pdb
+C:\Users\Liviu\source\repos\Physics\Physics\obj\Debug\netcoreapp3.1\Physics.csprojAssemblyReference.cache
+C:\Users\Liviu\source\repos\Physics\Physics\obj\Debug\netcoreapp3.1\Physics.AssemblyInfoInputs.cache
+C:\Users\Liviu\source\repos\Physics\Physics\obj\Debug\netcoreapp3.1\Physics.AssemblyInfo.cs
+C:\Users\Liviu\source\repos\Physics\Physics\obj\Debug\netcoreapp3.1\Physics.csproj.CoreCompileInputs.cache
+C:\Users\Liviu\source\repos\Physics\Physics\obj\Debug\netcoreapp3.1\Physics.dll
+C:\Users\Liviu\source\repos\Physics\Physics\obj\Debug\netcoreapp3.1\Physics.pdb
+C:\Users\Liviu\source\repos\Physics\Physics\obj\Debug\netcoreapp3.1\Physics.genruntimeconfig.cache
+C:\Users\Liviu\source\repos\Physics - Backup\Physics\bin\Debug\netcoreapp3.1\Physics.exe
+C:\Users\Liviu\source\repos\Physics - Backup\Physics\bin\Debug\netcoreapp3.1\Physics.deps.json
+C:\Users\Liviu\source\repos\Physics - Backup\Physics\bin\Debug\netcoreapp3.1\Physics.runtimeconfig.json
+C:\Users\Liviu\source\repos\Physics - Backup\Physics\bin\Debug\netcoreapp3.1\Physics.runtimeconfig.dev.json
+C:\Users\Liviu\source\repos\Physics - Backup\Physics\bin\Debug\netcoreapp3.1\Physics.dll
+C:\Users\Liviu\source\repos\Physics - Backup\Physics\bin\Debug\netcoreapp3.1\Physics.pdb
+C:\Users\Liviu\source\repos\Physics - Backup\Physics\obj\Debug\netcoreapp3.1\Physics.csprojAssemblyReference.cache
+C:\Users\Liviu\source\repos\Physics - Backup\Physics\obj\Debug\netcoreapp3.1\Physics.AssemblyInfoInputs.cache
+C:\Users\Liviu\source\repos\Physics - Backup\Physics\obj\Debug\netcoreapp3.1\Physics.AssemblyInfo.cs
+C:\Users\Liviu\source\repos\Physics - Backup\Physics\obj\Debug\netcoreapp3.1\Physics.csproj.CoreCompileInputs.cache
+C:\Users\Liviu\source\repos\Physics - Backup\Physics\obj\Debug\netcoreapp3.1\Physics.dll
+C:\Users\Liviu\source\repos\Physics - Backup\Physics\obj\Debug\netcoreapp3.1\Physics.pdb
+C:\Users\Liviu\source\repos\Physics - Backup\Physics\obj\Debug\netcoreapp3.1\Physics.genruntimeconfig.cache
+F:\Documents\programming projects\source\repos\Physics - Backup\Physics\bin\Debug\netcoreapp3.1\Physics.exe
+F:\Documents\programming projects\source\repos\Physics - Backup\Physics\bin\Debug\netcoreapp3.1\Physics.deps.json
+F:\Documents\programming projects\source\repos\Physics - Backup\Physics\bin\Debug\netcoreapp3.1\Physics.runtimeconfig.json
+F:\Documents\programming projects\source\repos\Physics - Backup\Physics\bin\Debug\netcoreapp3.1\Physics.runtimeconfig.dev.json
+F:\Documents\programming projects\source\repos\Physics - Backup\Physics\bin\Debug\netcoreapp3.1\Physics.dll
+F:\Documents\programming projects\source\repos\Physics - Backup\Physics\bin\Debug\netcoreapp3.1\Physics.pdb
+F:\Documents\programming projects\source\repos\Physics - Backup\Physics\obj\Debug\netcoreapp3.1\Physics.csproj.AssemblyReference.cache
+F:\Documents\programming projects\source\repos\Physics - Backup\Physics\obj\Debug\netcoreapp3.1\Physics.GeneratedMSBuildEditorConfig.editorconfig
+F:\Documents\programming projects\source\repos\Physics - Backup\Physics\obj\Debug\netcoreapp3.1\Physics.AssemblyInfoInputs.cache
+F:\Documents\programming projects\source\repos\Physics - Backup\Physics\obj\Debug\netcoreapp3.1\Physics.AssemblyInfo.cs
+F:\Documents\programming projects\source\repos\Physics - Backup\Physics\obj\Debug\netcoreapp3.1\Physics.csproj.CoreCompileInputs.cache
+F:\Documents\programming projects\source\repos\Physics - Backup\Physics\obj\Debug\netcoreapp3.1\Physics.dll
+F:\Documents\programming projects\source\repos\Physics - Backup\Physics\obj\Debug\netcoreapp3.1\Physics.pdb
+F:\Documents\programming projects\source\repos\Physics - Backup\Physics\obj\Debug\netcoreapp3.1\Physics.genruntimeconfig.cache

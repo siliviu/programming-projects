@@ -1,0 +1,31 @@
+C:\Users\Liviu\source\repos\Connect 4\Draughts\bin\Debug\netcoreapp3.1\Connect 4.exe
+C:\Users\Liviu\source\repos\Connect 4\Draughts\bin\Debug\netcoreapp3.1\Connect 4.deps.json
+C:\Users\Liviu\source\repos\Connect 4\Draughts\bin\Debug\netcoreapp3.1\Connect 4.runtimeconfig.json
+C:\Users\Liviu\source\repos\Connect 4\Draughts\bin\Debug\netcoreapp3.1\Connect 4.runtimeconfig.dev.json
+C:\Users\Liviu\source\repos\Connect 4\Draughts\bin\Debug\netcoreapp3.1\Connect 4.dll
+C:\Users\Liviu\source\repos\Connect 4\Draughts\bin\Debug\netcoreapp3.1\Connect 4.pdb
+C:\Users\Liviu\source\repos\Connect 4\Draughts\obj\Debug\netcoreapp3.1\Connect 4.csproj.GenerateResource.cache
+C:\Users\Liviu\source\repos\Connect 4\Draughts\obj\Debug\netcoreapp3.1\Connect 4.AssemblyInfoInputs.cache
+C:\Users\Liviu\source\repos\Connect 4\Draughts\obj\Debug\netcoreapp3.1\Connect 4.AssemblyInfo.cs
+C:\Users\Liviu\source\repos\Connect 4\Draughts\obj\Debug\netcoreapp3.1\Connect 4.csproj.CoreCompileInputs.cache
+C:\Users\Liviu\source\repos\Connect 4\Draughts\obj\Debug\netcoreapp3.1\Connect 4.dll
+C:\Users\Liviu\source\repos\Connect 4\Draughts\obj\Debug\netcoreapp3.1\Connect 4.pdb
+C:\Users\Liviu\source\repos\Connect 4\Draughts\obj\Debug\netcoreapp3.1\Connect 4.genruntimeconfig.cache
+C:\Users\Liviu\source\repos\Connect 4\Draughts\obj\Debug\netcoreapp3.1\Connect 4.csprojAssemblyReference.cache
+C:\Users\Liviu\source\repos\Connect 4\Draughts\obj\Debug\netcoreapp3.1\Connect4.Properties.Resources.resources
+F:\Documents\programming projects\source\repos\Connect 4\Draughts\bin\Debug\netcoreapp3.1\Connect 4.exe
+F:\Documents\programming projects\source\repos\Connect 4\Draughts\bin\Debug\netcoreapp3.1\Connect 4.deps.json
+F:\Documents\programming projects\source\repos\Connect 4\Draughts\bin\Debug\netcoreapp3.1\Connect 4.runtimeconfig.json
+F:\Documents\programming projects\source\repos\Connect 4\Draughts\bin\Debug\netcoreapp3.1\Connect 4.runtimeconfig.dev.json
+F:\Documents\programming projects\source\repos\Connect 4\Draughts\bin\Debug\netcoreapp3.1\Connect 4.dll
+F:\Documents\programming projects\source\repos\Connect 4\Draughts\bin\Debug\netcoreapp3.1\Connect 4.pdb
+F:\Documents\programming projects\source\repos\Connect 4\Draughts\obj\Debug\netcoreapp3.1\Connect 4.csproj.AssemblyReference.cache
+F:\Documents\programming projects\source\repos\Connect 4\Draughts\obj\Debug\netcoreapp3.1\Connect4.Properties.Resources.resources
+F:\Documents\programming projects\source\repos\Connect 4\Draughts\obj\Debug\netcoreapp3.1\Connect 4.csproj.GenerateResource.cache
+F:\Documents\programming projects\source\repos\Connect 4\Draughts\obj\Debug\netcoreapp3.1\Connect 4.GeneratedMSBuildEditorConfig.editorconfig
+F:\Documents\programming projects\source\repos\Connect 4\Draughts\obj\Debug\netcoreapp3.1\Connect 4.AssemblyInfoInputs.cache
+F:\Documents\programming projects\source\repos\Connect 4\Draughts\obj\Debug\netcoreapp3.1\Connect 4.AssemblyInfo.cs
+F:\Documents\programming projects\source\repos\Connect 4\Draughts\obj\Debug\netcoreapp3.1\Connect 4.csproj.CoreCompileInputs.cache
+F:\Documents\programming projects\source\repos\Connect 4\Draughts\obj\Debug\netcoreapp3.1\Connect 4.dll
+F:\Documents\programming projects\source\repos\Connect 4\Draughts\obj\Debug\netcoreapp3.1\Connect 4.pdb
+F:\Documents\programming projects\source\repos\Connect 4\Draughts\obj\Debug\netcoreapp3.1\Connect 4.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Liviu\source\repos\ConsoleApp2\ConsoleApp2\bin\Release\ConsoleApp2.exe.config
+C:\Users\Liviu\source\repos\ConsoleApp2\ConsoleApp2\bin\Release\ConsoleApp2.exe
+C:\Users\Liviu\source\repos\ConsoleApp2\ConsoleApp2\bin\Release\ConsoleApp2.pdb
+C:\Users\Liviu\source\repos\ConsoleApp2\ConsoleApp2\bin\Release\Bytescout.Spreadsheet.dll
+C:\Users\Liviu\source\repos\ConsoleApp2\ConsoleApp2\bin\Release\HtmlAgilityPack.dll
+C:\Users\Liviu\source\repos\ConsoleApp2\ConsoleApp2\bin\Release\Bytescout.Spreadsheet.xml
+C:\Users\Liviu\source\repos\ConsoleApp2\ConsoleApp2\bin\Release\HtmlAgilityPack.pdb
+C:\Users\Liviu\source\repos\ConsoleApp2\ConsoleApp2\bin\Release\HtmlAgilityPack.xml
+C:\Users\Liviu\source\repos\ConsoleApp2\ConsoleApp2\obj\Release\DicParser.csproj.CoreCompileInputs.cache
+C:\Users\Liviu\source\repos\ConsoleApp2\ConsoleApp2\obj\Release\DicParser.csproj.CopyComplete
+C:\Users\Liviu\source\repos\ConsoleApp2\ConsoleApp2\obj\Release\ConsoleApp2.exe
+C:\Users\Liviu\source\repos\ConsoleApp2\ConsoleApp2\obj\Release\ConsoleApp2.pdb
+C:\Users\Liviu\source\repos\ConsoleApp2\ConsoleApp2\obj\Release\DicParser.csprojAssemblyReference.cache

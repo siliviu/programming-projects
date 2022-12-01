@@ -1,0 +1,38 @@
+Username : lachy
+
+
+Overall 
+
+Matches : 13010
+Wins : 575
+Winrate : 4.42%
+Kills : 30865
+K/D : 2.48
+K/M : 2.37
+
+Solo 
+
+Matches : 7616
+Wins : 164
+Winrate : 2.15%
+Kills : 17535
+K/D : 2.35
+K/M : 2.30
+
+Duos 
+
+Matches : 2516
+Wins : 184
+Winrate : 7.31%
+Kills : 6508
+K/D : 2.79
+K/M : 2.59
+
+Squads 
+
+Matches : 2878
+Wins : 227
+Winrate : 7.89%
+Kills : 6822
+K/D : 2.57
+K/M : 2.37

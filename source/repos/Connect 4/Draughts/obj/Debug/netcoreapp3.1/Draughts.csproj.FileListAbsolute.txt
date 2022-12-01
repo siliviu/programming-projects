@@ -1,0 +1,15 @@
+C:\Users\Liviu\source\repos\Draughts\Draughts\bin\Debug\netcoreapp3.1\Draughts.exe
+C:\Users\Liviu\source\repos\Draughts\Draughts\bin\Debug\netcoreapp3.1\Draughts.deps.json
+C:\Users\Liviu\source\repos\Draughts\Draughts\bin\Debug\netcoreapp3.1\Draughts.runtimeconfig.json
+C:\Users\Liviu\source\repos\Draughts\Draughts\bin\Debug\netcoreapp3.1\Draughts.runtimeconfig.dev.json
+C:\Users\Liviu\source\repos\Draughts\Draughts\bin\Debug\netcoreapp3.1\Draughts.dll
+C:\Users\Liviu\source\repos\Draughts\Draughts\bin\Debug\netcoreapp3.1\Draughts.pdb
+C:\Users\Liviu\source\repos\Draughts\Draughts\obj\Debug\netcoreapp3.1\Draughts.AssemblyInfoInputs.cache
+C:\Users\Liviu\source\repos\Draughts\Draughts\obj\Debug\netcoreapp3.1\Draughts.AssemblyInfo.cs
+C:\Users\Liviu\source\repos\Draughts\Draughts\obj\Debug\netcoreapp3.1\Draughts.csproj.CoreCompileInputs.cache
+C:\Users\Liviu\source\repos\Draughts\Draughts\obj\Debug\netcoreapp3.1\Draughts.dll
+C:\Users\Liviu\source\repos\Draughts\Draughts\obj\Debug\netcoreapp3.1\Draughts.pdb
+C:\Users\Liviu\source\repos\Draughts\Draughts\obj\Debug\netcoreapp3.1\Draughts.genruntimeconfig.cache
+C:\Users\Liviu\source\repos\Draughts\Draughts\obj\Debug\netcoreapp3.1\Draughts.Properties.Resources.resources
+C:\Users\Liviu\source\repos\Draughts\Draughts\obj\Debug\netcoreapp3.1\Draughts.csproj.GenerateResource.cache
+C:\Users\Liviu\source\repos\Draughts\Draughts\obj\Debug\netcoreapp3.1\Draughts.csprojAssemblyReference.cache

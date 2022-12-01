@@ -1,0 +1,14 @@
+F:\Documents\programming projects\source\repos\Tetris\Tetris\bin\Debug\Tetris.exe.config
+F:\Documents\programming projects\source\repos\Tetris\Tetris\bin\Debug\Tetris.exe
+F:\Documents\programming projects\source\repos\Tetris\Tetris\bin\Debug\Tetris.pdb
+F:\Documents\programming projects\source\repos\Tetris\Tetris\bin\Debug\NAudio.dll
+F:\Documents\programming projects\source\repos\Tetris\Tetris\bin\Debug\NAudio.xml
+F:\Documents\programming projects\source\repos\Tetris\Tetris\obj\Debug\Tetris.csproj.AssemblyReference.cache
+F:\Documents\programming projects\source\repos\Tetris\Tetris\obj\Debug\Tetris.csproj.ResolveComReference.cache
+F:\Documents\programming projects\source\repos\Tetris\Tetris\obj\Debug\Tetris.Form1.resources
+F:\Documents\programming projects\source\repos\Tetris\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+F:\Documents\programming projects\source\repos\Tetris\Tetris\obj\Debug\Tetris.csproj.GenerateResource.cache
+F:\Documents\programming projects\source\repos\Tetris\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+F:\Documents\programming projects\source\repos\Tetris\Tetris\obj\Debug\Tetris.csproj.CopyComplete
+F:\Documents\programming projects\source\repos\Tetris\Tetris\obj\Debug\Tetris.exe
+F:\Documents\programming projects\source\repos\Tetris\Tetris\obj\Debug\Tetris.pdb

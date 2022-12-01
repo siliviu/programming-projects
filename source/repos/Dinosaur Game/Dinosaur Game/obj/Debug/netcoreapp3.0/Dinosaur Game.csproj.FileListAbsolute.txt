@@ -1,0 +1,15 @@
+C:\Users\Liviu\source\repos\Dinosaur Game\Dinosaur Game\bin\Debug\netcoreapp3.0\Dinosaur Game.exe
+C:\Users\Liviu\source\repos\Dinosaur Game\Dinosaur Game\bin\Debug\netcoreapp3.0\Dinosaur Game.deps.json
+C:\Users\Liviu\source\repos\Dinosaur Game\Dinosaur Game\bin\Debug\netcoreapp3.0\Dinosaur Game.runtimeconfig.json
+C:\Users\Liviu\source\repos\Dinosaur Game\Dinosaur Game\bin\Debug\netcoreapp3.0\Dinosaur Game.runtimeconfig.dev.json
+C:\Users\Liviu\source\repos\Dinosaur Game\Dinosaur Game\bin\Debug\netcoreapp3.0\Dinosaur Game.dll
+C:\Users\Liviu\source\repos\Dinosaur Game\Dinosaur Game\bin\Debug\netcoreapp3.0\Dinosaur Game.pdb
+C:\Users\Liviu\source\repos\Dinosaur Game\Dinosaur Game\obj\Debug\netcoreapp3.0\Dinosaur Game.csprojAssemblyReference.cache
+C:\Users\Liviu\source\repos\Dinosaur Game\Dinosaur Game\obj\Debug\netcoreapp3.0\Dinosaur Game.AssemblyInfoInputs.cache
+C:\Users\Liviu\source\repos\Dinosaur Game\Dinosaur Game\obj\Debug\netcoreapp3.0\Dinosaur Game.AssemblyInfo.cs
+C:\Users\Liviu\source\repos\Dinosaur Game\Dinosaur Game\obj\Debug\netcoreapp3.0\Dinosaur Game.dll
+C:\Users\Liviu\source\repos\Dinosaur Game\Dinosaur Game\obj\Debug\netcoreapp3.0\Dinosaur Game.pdb
+C:\Users\Liviu\source\repos\Dinosaur Game\Dinosaur Game\obj\Debug\netcoreapp3.0\Dinosaur_Game.Properties.Resources.resources
+C:\Users\Liviu\source\repos\Dinosaur Game\Dinosaur Game\obj\Debug\netcoreapp3.0\Dinosaur Game.csproj.GenerateResource.cache
+C:\Users\Liviu\source\repos\Dinosaur Game\Dinosaur Game\obj\Debug\netcoreapp3.0\Dinosaur Game.csproj.CoreCompileInputs.cache
+C:\Users\Liviu\source\repos\Dinosaur Game\Dinosaur Game\obj\Debug\netcoreapp3.0\Dinosaur Game.genruntimeconfig.cache

@@ -1,0 +1,38 @@
+Username : muselk
+
+
+Overall 
+
+Matches : 7830
+Wins : 736
+Winrate : 9.40%
+Kills : 25336
+K/D : 3.57
+K/M : 3.24
+
+Solo 
+
+Matches : 4624
+Wins : 333
+Winrate : 7.20%
+Kills : 14595
+K/D : 3.40
+K/M : 3.16
+
+Duos 
+
+Matches : 1818
+Wins : 219
+Winrate : 12.05%
+Kills : 5758
+K/D : 3.60
+K/M : 3.17
+
+Squads 
+
+Matches : 1388
+Wins : 184
+Winrate : 13.26%
+Kills : 4983
+K/D : 4.14
+K/M : 3.59

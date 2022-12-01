@@ -1,0 +1,38 @@
+Username :  mrfreshasian 
+
+
+Overall 
+
+Matches : 8046
+Wins : 3093
+Winrate : 38.44%
+Kills : 51185
+K/D : 10.33
+K/M : 6.36
+
+Solo 
+
+Matches : 4167
+Wins : 1209
+Winrate : 29.01%
+Kills : 26047
+K/D : 8.81
+K/M : 6.25
+
+Duos 
+
+Matches : 1356
+Wins : 658
+Winrate : 48.53%
+Kills : 9198
+K/D : 13.18
+K/M : 6.78
+
+Squads 
+
+Matches : 2523
+Wins : 1226
+Winrate : 48.59%
+Kills : 15940
+K/D : 12.29
+K/M : 6.32

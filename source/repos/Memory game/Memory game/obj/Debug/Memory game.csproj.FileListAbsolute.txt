@@ -1,0 +1,9 @@
+C:\Users\Liviu\source\repos\Memory game\Memory game\obj\Debug\Memory game.csprojAssemblyReference.cache
+C:\Users\Liviu\source\repos\Memory game\Memory game\obj\Debug\Memory_game.Properties.Resources.resources
+C:\Users\Liviu\source\repos\Memory game\Memory game\obj\Debug\Memory game.csproj.GenerateResource.cache
+C:\Users\Liviu\source\repos\Memory game\Memory game\obj\Debug\Memory game.csproj.CoreCompileInputs.cache
+C:\Users\Liviu\source\repos\Memory game\Memory game\bin\Debug\Memory game.exe.config
+C:\Users\Liviu\source\repos\Memory game\Memory game\bin\Debug\Memory game.exe
+C:\Users\Liviu\source\repos\Memory game\Memory game\bin\Debug\Memory game.pdb
+C:\Users\Liviu\source\repos\Memory game\Memory game\obj\Debug\Memory game.exe
+C:\Users\Liviu\source\repos\Memory game\Memory game\obj\Debug\Memory game.pdb

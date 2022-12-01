@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "9iDsOT3O5VqpEfvG+8KKK+u8jkXkjP35fLoOQDRR9eWUnbANh+JzPgBVfCP779c+B6kPaVohiV33xascd2lhKA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Liviu\\source\\repos\\Dinosaur Game\\Dinosaur Game\\Dinosaur Game.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Liviu\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Liviu\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Liviu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\Liviu\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
