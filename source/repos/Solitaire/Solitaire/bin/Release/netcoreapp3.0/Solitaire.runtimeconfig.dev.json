@@ -2,8 +2,7 @@
   "runtimeOptions": {
     "additionalProbingPaths": [
       "C:\\Users\\Liviu\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\Liviu\\.nuget\\packages",
-      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      "C:\\Users\\Liviu\\.nuget\\packages"
     ]
   }
 }

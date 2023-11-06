@@ -7,3 +7,5 @@ C:\Users\Liviu\source\repos\2048\2048\obj\Release\2048.exe
 C:\Users\Liviu\source\repos\2048\2048\obj\Release\2048.pdb
 C:\Users\Liviu\source\repos\2048\2048\obj\Release\2048.csprojAssemblyReference.cache
 C:\Users\Liviu\source\repos\2048\2048\obj\Release\_2048.Properties.Resources.resources
+C:\Users\Liviu\Documents\programming-projects\source\repos\2048\2048\obj\Release\2048.exe
+C:\Users\Liviu\Documents\programming-projects\source\repos\2048\2048\obj\Release\2048.pdb
