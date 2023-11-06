@@ -8,10 +8,11 @@
     <OutputType>WinExe</OutputType>
     <RootNamespace>English_Test</RootNamespace>
     <AssemblyName>English Test</AssemblyName>
-    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -33,8 +34,8 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Bytescout.Spreadsheet, Version=3.4.3.1790, Culture=neutral, PublicKeyToken=f7dd1bd9d40a50eb, processorArchitecture=MSIL">
-      <HintPath>..\packages\Bytescout.Spreadsheet.3.4.3.1790\lib\net40\Bytescout.Spreadsheet.dll</HintPath>
+    <Reference Include="Bytescout.Spreadsheet, Version=4.7.1.2054, Culture=neutral, PublicKeyToken=f7dd1bd9d40a50eb, processorArchitecture=MSIL">
+      <HintPath>..\packages\Bytescout.Spreadsheet.4.7.1.2054\lib\net40\Bytescout.Spreadsheet.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />

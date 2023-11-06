@@ -6844,6 +6844,27 @@
             <param name="autoSize">Automatic document sizing. If <c>false</c>, the page size will be taken from worksheet page setup.</param>
             <param name="password">PDF document password.</param>
         </member>
+        <member name="M:Bytescout.Spreadsheet.COM.ISpreadsheet.SaveAsPDF(System.IO.Stream)">
+            <summary>
+            Exports spreadsheet to stream in PDF format.
+            </summary>
+            <param name="stream">Stream to save PDF file to.</param>
+        </member>
+        <member name="M:Bytescout.Spreadsheet.COM.ISpreadsheet.SaveAsPDF(System.IO.Stream,System.Boolean)">
+            <summary>
+             Exports spreadsheet to stream in PDF format.
+             </summary>
+            <param name="stream">Stream to save PDF file to.</param>
+            <param name="autoSize">Automatic document sizing. If <c>false</c>, the page size will be taken from worksheet page setup.</param>
+        </member>
+        <member name="M:Bytescout.Spreadsheet.COM.ISpreadsheet.SaveAsPDF(System.IO.Stream,System.Boolean,System.String)">
+            <summary>
+            Exports spreadsheet to stream in PDF format.
+            </summary>
+            <param name="stream">Stream to save PDF file to.</param>
+            <param name="autoSize">Automatic document sizing. If <c>false</c>, the page size will be taken from worksheet page setup.</param>
+            <param name="password">PDF document password.</param>
+        </member>
         <member name="P:Bytescout.Spreadsheet.COM.ISpreadsheet.Workbook">
             <summary>
             Gets or sets the Workbook.
@@ -6885,6 +6906,16 @@
             Sets the registration key.
             </summary>
             <value>The registration key.</value>
+        </member>
+        <member name="P:Bytescout.Spreadsheet.COM.ISpreadsheet.Version">
+            <summary>
+             Gets the component version number.
+            </summary>
+        </member>
+        <member name="P:Bytescout.Spreadsheet.COM.ISpreadsheet.LicenseInfo">
+            <summary>
+            Gets license information.
+            </summary>
         </member>
         <member name="M:Bytescout.Spreadsheet.COM.ISpreadsheet.GetAsBytesArray(Bytescout.Spreadsheet.Constants.SpreadsheetFormatType)">
             <summary>
@@ -8302,6 +8333,59 @@
             Returns the number of objects in the collection.
             </summary>
             <value>The number of objects in the collection.</value>
+        </member>
+        <member name="T:Bytescout.Spreadsheet.LicenseInfo">
+            <summary>
+            License information.
+            </summary>
+        </member>
+        <member name="P:Bytescout.Spreadsheet.LicenseInfo.LicenseType">
+            <summary>
+            License type.
+            </summary>
+        </member>
+        <member name="P:Bytescout.Spreadsheet.LicenseInfo.UpdatesExpireOn">
+            <summary>
+            Support and updates expiration date.
+            </summary>
+        </member>
+        <member name="P:Bytescout.Spreadsheet.LicenseInfo.LimitType">
+            <summary>
+            License limit type.
+            </summary>
+        </member>
+        <member name="P:Bytescout.Spreadsheet.LicenseInfo.LimitTerm">
+            <summary>
+            License limit term.
+            </summary>
+        </member>
+        <member name="P:Bytescout.Spreadsheet.LicenseInfo.Limit">
+            <summary>
+            Limit of license units.
+            </summary>
+        </member>
+        <member name="P:Bytescout.Spreadsheet.LicenseInfo.Remainder">
+            <summary>
+            Number of remaining license units.
+            </summary>
+        </member>
+        <member name="P:Bytescout.Spreadsheet.LicenseInfo.LicenseKey">
+            <summary>
+            Masked license key (RegistrationKey).
+            </summary>
+        </member>
+        <member name="P:Bytescout.Spreadsheet.LicenseInfo.DLLVersion">
+            <summary>
+            DLL version.
+            </summary>
+        </member>
+        <member name="P:Bytescout.Spreadsheet.LicenseInfo.HardwareID">
+            <summary>
+            Device Hardware ID.
+            </summary>
+        </member>
+        <member name="M:Bytescout.Spreadsheet.LicenseInfo.ToString">
+            <inheritdoc />
         </member>
         <member name="T:Bytescout.Spreadsheet.OpenXML.Types.SheetState">
             <summary>
@@ -10252,6 +10336,16 @@
             Cell class 
             </summary>
         </member>
+        <member name="P:Bytescout.Spreadsheet.Cell.ColIndex">
+            <summary>
+            Column index.
+            </summary>
+        </member>
+        <member name="P:Bytescout.Spreadsheet.Cell.RowIndex">
+            <summary>
+            Row index.
+            </summary>
+        </member>
         <member name="P:Bytescout.Spreadsheet.Cell.Value">
             <summary>
             Gets or sets the value of cell.
@@ -10683,6 +10777,12 @@
             </summary>
             <param name="sheet">The sheet.</param>
             <param name="index">index of the column.</param>
+        </member>
+        <member name="P:Bytescout.Spreadsheet.Column.WidthInPoints">
+            <summary>
+            Gets the width of column in points.
+            </summary>
+            <value>The width of column in points.</value>
         </member>
         <member name="P:Bytescout.Spreadsheet.Column.Width">
             <summary>
@@ -11601,6 +11701,12 @@
             </summary>
             <value>The height of row, in twips.</value>
         </member>
+        <member name="P:Bytescout.Spreadsheet.Row.HeightInPoints">
+            <summary>
+            Gets the height  of row in points.
+            </summary>
+            <value>Theheight  of row in points.</value>
+        </member>
         <member name="P:Bytescout.Spreadsheet.Row.UseStandardHeight">
             <summary>
             Gets or sets a value indicating that row height equals the standard height of the sheet.
@@ -12130,21 +12236,28 @@
             Initializes a new instance of the <see cref="T:Bytescout.Spreadsheet.Spreadsheet" /> class.
             </summary>
         </member>
-        <member name="P:Bytescout.Spreadsheet.Spreadsheet.RegistrationName">
+        <member name="M:Bytescout.Spreadsheet.Spreadsheet.#ctor(System.String,System.String)">
             <summary>
-            Sets the name of the registration.
+             Initializes a new instance of the <see cref="T:Bytescout.Spreadsheet.Spreadsheet" /> class.
             </summary>
-            <value>The name of the registration.</value>
+            <param name="registrationName">Registration name.</param>
+            <param name="registrationKey">Registration key.</param>
+        </member>
+        <member name="P:Bytescout.Spreadsheet.Spreadsheet.RegistrationName">
+            <inheritdoc />
         </member>
         <member name="P:Bytescout.Spreadsheet.Spreadsheet.RegistrationKey">
-            <summary>
-            Sets the registration key.
-            </summary>
-            <value>The registration key.</value>
+            <inheritdoc />
+        </member>
+        <member name="P:Bytescout.Spreadsheet.Spreadsheet.Version">
+            <inheritdoc />
+        </member>
+        <member name="P:Bytescout.Spreadsheet.Spreadsheet.LicenseInfo">
+            <inheritdoc />
         </member>
         <member name="P:Bytescout.Spreadsheet.Spreadsheet.UserName">
             <summary>
-            Gets or sets the name of the user.
+            Gets or sets the user name for document information.
             </summary>
             <value>The name of the user.</value>
         </member>
@@ -12159,7 +12272,7 @@
             Load data from file.
             </summary>
             <param name="FileName">Name of the file.</param>
-            <param name="Delimiter">Delimiter for text files.</param>
+            <param name="Delimiter">Field delimiter for CSV files.</param>
         </member>
         <member name="M:Bytescout.Spreadsheet.Spreadsheet.LoadFromFile(System.String,Bytescout.Spreadsheet.CacheType)">
             <summary>
@@ -12174,14 +12287,14 @@
             </summary>
             <param name="FileName">Name of the file.</param>
             <param name="Cache">Type of the cache.</param>
-            <param name="Delimiter">Delimiter for text files.</param>
+            <param name="Delimiter">Field delimiter for CSV files.</param>
         </member>
         <member name="M:Bytescout.Spreadsheet.Spreadsheet.LoadFromFile(System.String,System.String,System.Text.Encoding)">
             <summary>
             Load data from file.
             </summary>
             <param name="FileName">Name of the file.</param>
-            <param name="Delimiter">Delimiter for text files.</param>
+            <param name="Delimiter">Field delimiter for CSV files.</param>
             <param name="Encoding">The character encoding for text files.</param>
         </member>
         <member name="M:Bytescout.Spreadsheet.Spreadsheet.LoadFromFile(System.String,Bytescout.Spreadsheet.CacheType,System.String,System.Text.Encoding)">
@@ -12190,7 +12303,7 @@
             </summary>
             <param name="FileName">Name of the file.</param>
             <param name="Cache">Type of the cache.</param>
-            <param name="Delimiter">Delimiter for text files.</param>
+            <param name="Delimiter">Field delimiter for CSV files.</param>
             <param name="Encoding">The character encoding for text files.</param>
         </member>
         <member name="M:Bytescout.Spreadsheet.Spreadsheet.LoadFromFile(System.String,Bytescout.Spreadsheet.CacheType,System.String,System.Text.Encoding,System.String)">
@@ -12199,7 +12312,7 @@
             </summary>
             <param name="FileName">Name of the file.</param>
             <param name="Cache">Type of the cache.</param>
-            <param name="Delimiter">Delimiter for text files.</param>
+            <param name="Delimiter">Field delimiter for CSV files.</param>
             <param name="Encoding">The character encoding for text files.</param>
             <param name="Password">The password.</param>
         </member>
@@ -12245,7 +12358,7 @@
             </summary>
             <param name="AStream">The stream.</param>
             <param name="SType">Type of the stream.</param>
-            <param name="Delimiter">Delimiter for text files.</param>
+            <param name="Delimiter">Field delimiter for CSV files.</param>
             <param name="Encoding">The character encoding for text files.</param>
         </member>
         <member name="M:Bytescout.Spreadsheet.Spreadsheet.LoadFromStream(System.IO.Stream,Bytescout.Spreadsheet.Constants.SpreadsheetFormatType,Bytescout.Spreadsheet.CacheType,System.String,System.Text.Encoding)">
@@ -12255,7 +12368,7 @@
             <param name="AStream">The stream.</param>
             <param name="SType">Type of the stream.</param>
             <param name="Cache">Type of the cache.</param>
-            <param name="Delimiter">Delimiter for text files.</param>
+            <param name="Delimiter">Field delimiter for CSV files.</param>
             <param name="Encoding">The character encoding for text files.</param>
         </member>
         <member name="M:Bytescout.Spreadsheet.Spreadsheet.LoadFromStream(System.IO.Stream,Bytescout.Spreadsheet.Constants.SpreadsheetFormatType,Bytescout.Spreadsheet.CacheType,System.String,System.Text.Encoding,System.String)">
@@ -12265,7 +12378,7 @@
             <param name="AStream">The stream.</param>
             <param name="SType">Type of the stream.</param>
             <param name="Cache">Type of the cache.</param>
-            <param name="Delimiter">Delimiter for text files.</param>
+            <param name="Delimiter">Field delimiter for CSV files.</param>
             <param name="Encoding">The character encoding for text files.</param>
             <param name="Password">The password.</param>
         </member>
@@ -12303,7 +12416,7 @@
             </summary>
             <param name="FileName">Name of the file to save to.</param>
             <param name="SheetIndex">Index of worksheet.</param>
-            <param name="Delimiter">Delimiter string.</param>
+            <param name="Delimiter">Field delimiter symbol.</param>
         </member>
         <member name="M:Bytescout.Spreadsheet.Spreadsheet.SaveAsCSV(System.String,System.Int32,System.String,System.String)">
             <summary>
@@ -12311,7 +12424,7 @@
             </summary>
             <param name="FileName">Name of the file to save to.</param>
             <param name="SheetIndex">Index of worksheet.</param>
-            <param name="Delimiter">Delimiter symbol.</param>
+            <param name="Delimiter">Field delimiter symbol.</param>
             <param name="Quote">Quotation symbol.</param>
         </member>
         <member name="M:Bytescout.Spreadsheet.Spreadsheet.SaveAsCSV(System.String,System.Int32,System.String,System.String,System.Text.Encoding)">
@@ -12320,7 +12433,7 @@
             </summary>
             <param name="FileName">Name of the file to save to.</param>
             <param name="SheetIndex">Index of worksheet.</param>
-            <param name="Delimiter">Delimiter symbol.</param>
+            <param name="Delimiter">Field delimiter symbol.</param>
             <param name="Quote">Quotation symbol.</param>
             <param name="encoding">The character encoding.</param>
         </member>
@@ -12330,7 +12443,7 @@
             </summary>
             <param name="FileName">Name of the file to save to.</param>
             <param name="SheetIndex">Index of worksheet.</param>
-            <param name="Delimiter">Delimiter symbol.</param>
+            <param name="Delimiter">Field delimiter symbol.</param>
             <param name="Quote">Quotation symbol.</param>
             <param name="encoding">The character encoding.</param>
             <param name="forceQuotation">Force quotation.</param>
@@ -12348,7 +12461,7 @@
             </summary>
             <param name="FileName">Name of the file to save to.</param>
             <param name="SheetIndex">Index of worksheet.</param>
-            <param name="Delimiter">Delimiter character string.</param>/// 
+            <param name="Delimiter">Field delimiter symbol.</param>/// 
         </member>
         <member name="M:Bytescout.Spreadsheet.Spreadsheet.SaveAsTXT(System.String,System.Int32,System.String,System.String)">
             <summary>
@@ -12356,7 +12469,7 @@
             </summary>
             <param name="FileName">Name of the file to save to.</param>
             <param name="SheetIndex">Index of worksheet.</param>
-            <param name="Delimiter">The delimiter symbol.</param>
+            <param name="Delimiter">Field delimiter symbol.</param>
             <param name="QuoteSymbol">The quotation symbol.</param>
         </member>
         <member name="M:Bytescout.Spreadsheet.Spreadsheet.SaveAsTXT(System.String,System.Int32,System.String,System.String,System.Text.Encoding)">
@@ -12365,7 +12478,7 @@
             </summary>
             <param name="FileName">Name of the file to save to.</param>
             <param name="SheetIndex">Index of worksheet.</param>
-            <param name="Delimiter">The delimiter symbol.</param>
+            <param name="Delimiter">Field delimiter symbol.</param>
             <param name="QuoteSymbol">The quotation symbol.</param>
             <param name="encoding">The character encoding.</param>
         </member>
@@ -12375,7 +12488,7 @@
             </summary>
             <param name="FileName">Name of the file to save to.</param>
             <param name="SheetIndex">Index of worksheet.</param>
-            <param name="Delimiter">The delimiter symbol.</param>
+            <param name="Delimiter">Field delimiter symbol.</param>
             <param name="QuoteSymbol">The quotation symbol.</param>
             <param name="encoding">The character encoding.</param>
             <param name="forceQuotation">Force quotation.</param>
@@ -12400,25 +12513,22 @@
             <returns>List of generated HTML files.</returns>
         </member>
         <member name="M:Bytescout.Spreadsheet.Spreadsheet.SaveAsPDF(System.String)">
-            <summary>
-            Saves spreadsheet to PDF file with specified name.
-            </summary>
-            <param name="FileName">Name of the file to save to.</param>
+            <inheritdoc />
         </member>
         <member name="M:Bytescout.Spreadsheet.Spreadsheet.SaveAsPDF(System.String,System.Boolean)">
-            <summary>
-             Saves spreadsheet to PDF file with specified name.
-             </summary>
-            <param name="fileName">Name of the file to save to.</param>
-            <param name="autoSize">Automatic document sizing. If <c>false</c>, the page size wiil be taken from worksheet page setup.</param>
+            <inheritdoc />
         </member>
         <member name="M:Bytescout.Spreadsheet.Spreadsheet.SaveAsPDF(System.String,System.Boolean,System.String)">
-            <summary>
-            Saves spreadsheet to PDF file with specified name.
-            </summary>
-            <param name="fileName">Name of the file to save to.</param>
-            <param name="autoSize">Automatic document sizing. If <c>false</c>, the page size will be taken from worksheet page setup.</param>
-            <param name="password">PDF document password.</param>
+            <inheritdoc />
+        </member>
+        <member name="M:Bytescout.Spreadsheet.Spreadsheet.SaveAsPDF(System.IO.Stream)">
+            <inheritdoc />
+        </member>
+        <member name="M:Bytescout.Spreadsheet.Spreadsheet.SaveAsPDF(System.IO.Stream,System.Boolean)">
+            <inheritdoc />
+        </member>
+        <member name="M:Bytescout.Spreadsheet.Spreadsheet.SaveAsPDF(System.IO.Stream,System.Boolean,System.String)">
+            <inheritdoc />
         </member>
         <member name="M:Bytescout.Spreadsheet.Spreadsheet.SaveAsXLSX(System.String)">
             <summary>
@@ -12506,7 +12616,7 @@
             </summary>
             <param name="AStream">Stream to save to.</param>
             <param name="SheetIndex">Index of worksheet.</param>
-            <param name="Delimiter">Delimiter string.</param>
+            <param name="Delimiter">Field delimiter symbol.</param>
         </member>
         <member name="M:Bytescout.Spreadsheet.Spreadsheet.SaveToStreamCSV(System.IO.Stream,System.Int32,System.String,System.String)">
             <summary>
@@ -12514,7 +12624,7 @@
             </summary>
             <param name="AStream">Stream to save to.</param>
             <param name="SheetIndex">Index of worksheet.</param>
-            <param name="Delimiter">Delimiter symbol.</param>
+            <param name="Delimiter">Field delimiter symbol.</param>
             <param name="Quote">Quotation symbol.</param>
         </member>
         <member name="M:Bytescout.Spreadsheet.Spreadsheet.SaveToStreamCSV(System.IO.Stream,System.Int32,System.String,System.String,System.Text.Encoding)">
@@ -12523,7 +12633,7 @@
             </summary>
             <param name="AStream">Stream to save to.</param>
             <param name="SheetIndex">Index of worksheet.</param>
-            <param name="Delimiter">Delimiter symbol.</param>
+            <param name="Delimiter">Field delimiter symbol.</param>
             <param name="Quote">Quotation symbol.</param>
             <param name="encoding">The character encoding.</param>
         </member>
@@ -12533,7 +12643,7 @@
             </summary>
             <param name="AStream">Stream to save to.</param>
             <param name="SheetIndex">Index of worksheet.</param>
-            <param name="Delimiter">Delimiter symbol.</param>
+            <param name="Delimiter">Field delimiter symbol.</param>
             <param name="Quote">Quotation symbol.</param>
             <param name="encoding">The character encoding.</param>
             <param name="forceQuotation">Force quotation.</param>
@@ -12551,7 +12661,7 @@
             </summary>
             <param name="AStream">Stream to save to.</param>
             <param name="SheetIndex">Index of worksheet.</param>
-            <param name="Delimiter">Delimiter character string.</param>
+            <param name="Delimiter">Field delimiter symbol.</param>
         </member>
         <member name="M:Bytescout.Spreadsheet.Spreadsheet.SaveToStreamTXT(System.IO.Stream,System.Int32,System.String,System.String)">
             <summary>
@@ -12559,7 +12669,7 @@
             </summary>
             <param name="AStream">Stream to save to.</param>
             <param name="SheetIndex">Index of worksheet.</param>
-            <param name="Delimiter">The delimiter symbol.</param>
+            <param name="Delimiter">Field delimiter symbol.</param>
             <param name="QuoteSymbol">The quotation symbol.</param>
         </member>
         <member name="M:Bytescout.Spreadsheet.Spreadsheet.SaveToStreamTXT(System.IO.Stream,System.Int32,System.String,System.String,System.Text.Encoding)">
@@ -12568,7 +12678,7 @@
             </summary>
             <param name="AStream">Stream to save to.</param>
             <param name="SheetIndex">Index of worksheet.</param>
-            <param name="Delimiter">The delimiter symbol.</param>
+            <param name="Delimiter">Field delimiter symbol.</param>
             <param name="QuoteSymbol">The quotation symbol.</param>
             <param name="encoding">The character encoding.</param>
         </member>
@@ -12578,7 +12688,7 @@
             </summary>
             <param name="AStream">Stream to save to.</param>
             <param name="SheetIndex">Index of worksheet.</param>
-            <param name="Delimiter">The delimiter symbol.</param>
+            <param name="Delimiter">Field delimiter symbol.</param>
             <param name="QuoteSymbol">The quotation symbol.</param>
             <param name="encoding">The character encoding.</param>
             <param name="forceQuotation">Force quotation.</param>
@@ -15186,5 +15296,6 @@
             <exception cref="T:System.Runtime.Serialization.SerializationException">The class name is null or <see cref="P:System.Exception.HResult"></see> is zero (0). </exception>
             <exception cref="T:System.ArgumentNullException">The info parameter is null. </exception>
         </member>
+        <!-- Badly formed XML comment ignored for member "M:Bytescout.CSV.CSVFile.ParseStream(System.IO.StreamReader,Bytescout.CSV.CSVSettings)" -->
     </members>
 </doc>

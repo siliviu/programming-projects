@@ -8,21 +8,17 @@
     ".NETCoreApp,Version=v3.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Liviu\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Liviu\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Liviu\\source\\repos\\Dinosaur Game\\Dinosaur Game\\Dinosaur Game.csproj",
+      "projectUniqueName": "C:\\Users\\Liviu\\Documents\\programming-projects\\source\\repos\\Dinosaur Game\\Dinosaur Game\\Dinosaur Game.csproj",
       "projectName": "Dinosaur Game",
-      "projectPath": "C:\\Users\\Liviu\\source\\repos\\Dinosaur Game\\Dinosaur Game\\Dinosaur Game.csproj",
+      "projectPath": "C:\\Users\\Liviu\\Documents\\programming-projects\\source\\repos\\Dinosaur Game\\Dinosaur Game\\Dinosaur Game.csproj",
       "packagesPath": "C:\\Users\\Liviu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Liviu\\source\\repos\\Dinosaur Game\\Dinosaur Game\\obj\\",
+      "outputPath": "C:\\Users\\Liviu\\Documents\\programming-projects\\source\\repos\\Dinosaur Game\\Dinosaur Game\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
         "C:\\Users\\Liviu\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -36,6 +32,7 @@
       },
       "frameworks": {
         "netcoreapp3.0": {
+          "targetAlias": "netcoreapp3.0",
           "projectReferences": {}
         }
       },
@@ -47,13 +44,15 @@
     },
     "frameworks": {
       "netcoreapp3.0": {
+        "targetAlias": "netcoreapp3.0",
         "imports": [
           "net461",
           "net462",
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -83,7 +82,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

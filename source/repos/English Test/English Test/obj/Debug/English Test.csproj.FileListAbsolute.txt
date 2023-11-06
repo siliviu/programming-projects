@@ -11,3 +11,17 @@ C:\Users\Liviu\source\repos\English Test\English Test\bin\Debug\Bytescout.Spread
 C:\Users\Liviu\source\repos\English Test\English Test\obj\Debug\English Test.csproj.CopyComplete
 C:\Users\Liviu\source\repos\English Test\English Test\obj\Debug\English Test.exe
 C:\Users\Liviu\source\repos\English Test\English Test\obj\Debug\English Test.pdb
+C:\Users\Liviu\Documents\programming-projects\source\repos\English Test\English Test\bin\Debug\English Test.exe.config
+C:\Users\Liviu\Documents\programming-projects\source\repos\English Test\English Test\bin\Debug\English Test.exe
+C:\Users\Liviu\Documents\programming-projects\source\repos\English Test\English Test\bin\Debug\English Test.pdb
+C:\Users\Liviu\Documents\programming-projects\source\repos\English Test\English Test\bin\Debug\Bytescout.Spreadsheet.dll
+C:\Users\Liviu\Documents\programming-projects\source\repos\English Test\English Test\bin\Debug\Bytescout.Spreadsheet.xml
+C:\Users\Liviu\Documents\programming-projects\source\repos\English Test\English Test\obj\Debug\English Test.csproj.AssemblyReference.cache
+C:\Users\Liviu\Documents\programming-projects\source\repos\English Test\English Test\obj\Debug\English Test.csproj.SuggestedBindingRedirects.cache
+C:\Users\Liviu\Documents\programming-projects\source\repos\English Test\English Test\obj\Debug\English_Test.Form1.resources
+C:\Users\Liviu\Documents\programming-projects\source\repos\English Test\English Test\obj\Debug\English_Test.Properties.Resources.resources
+C:\Users\Liviu\Documents\programming-projects\source\repos\English Test\English Test\obj\Debug\English Test.csproj.GenerateResource.cache
+C:\Users\Liviu\Documents\programming-projects\source\repos\English Test\English Test\obj\Debug\English Test.csproj.CoreCompileInputs.cache
+C:\Users\Liviu\Documents\programming-projects\source\repos\English Test\English Test\obj\Debug\English Test.csproj.CopyComplete
+C:\Users\Liviu\Documents\programming-projects\source\repos\English Test\English Test\obj\Debug\English Test.exe
+C:\Users\Liviu\Documents\programming-projects\source\repos\English Test\English Test\obj\Debug\English Test.pdb

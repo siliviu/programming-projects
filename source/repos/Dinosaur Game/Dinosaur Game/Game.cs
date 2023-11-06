@@ -13,7 +13,7 @@ namespace Dinosaur_Game
 {
     public partial class Game : Form
     {
-        public static int Score = 0, Time = 0, PreviousScoreTime = 0, PreviousObjectTime = 0, PreviousAnimationTime = 0, Speed = 500000, XSize = 1920, YSize = 1080, GameScale = 200;
+        public static int Score = 0, Time = 0, PreviousScoreTime = 0, PreviousObjectTime = 0, PreviousAnimationTime = 0, Speed = 1000, XSize = 1920, YSize = 1080, GameScale = 200;
         public static double _Speed = 1 + Math.Log2(Speed);
         public static bool GameIsOver = false;
         public Background Background;

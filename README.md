@@ -1,5 +1,5 @@
 # programming-projects
-Old C#/C++ games and apps
+Old C#/C++ games and apps (dating from 2019)
 Some projects are more polished than others, some may no longer work. The UI is generally lackluster and options may only be changed by recompiling
 
 ## Recreated Games 
@@ -22,6 +22,10 @@ Some projects are more polished than others, some may no longer work. The UI is 
 <img width="402" alt="Screenshot 2023-11-06 111245" src="https://github.com/siliviu/programming-projects/assets/24477832/4c7a5740-bea0-41a6-b15b-cb0645fecf5e">
 <img width="467" alt="Screenshot 2023-11-06 111326" src="https://github.com/siliviu/programming-projects/assets/24477832/980cf3b5-8d45-435a-bfa4-a57938679790">
 
+
+### Dinosaur Game
+* Dodge the obstacles
+* Features animations made from scratch
 
 ### Draughts
 * Can be played with different rules
@@ -50,9 +54,34 @@ Some projects are more polished than others, some may no longer work. The UI is 
 * Includes custom scoring and a soundtrack
 <img width="1280" alt="Screenshot 2023-11-06 174138" src="https://github.com/siliviu/programming-projects/assets/24477832/578aa7ca-4c4d-47be-9282-88b2cd1682d8">
 
-## Tower Stacking Game
+### Tower Stacking Game
 * Left click to stack towers until the end
 <img width="1275" alt="Screenshot 2023-11-06 175121" src="https://github.com/siliviu/programming-projects/assets/24477832/071e5c16-8dd7-4c69-9231-9b129ffadc96">
 
+## Original games/apps
+
+### 2D Physics Simulation
+* Simulates movement + collision of objects in 2D
+* Conserves momentum/kinetic energy
+* Can be used to approximate PI
+
+### English Quiz
+* Tries to estimate English level based on matching word definitions
+
+### Memory Light Game
+* Remember the order in which the boxes flash and progress to the next level
+
+### Sorting Visualiser
+* Features sound effects
+* Visualise Quick Sort, Merge Sort, Bubble Sort, Insertion Sort, Random Shuffling
+
+### Unit Converter
+* First app made
+* Can convert between units of length, temperature and currency
+* Persistent settings, currency is up to date
+
 ## Others
 
+* Parsers (Dictionary Parser / BAC Parser)
+* App to aggregate articles from different websites (Minecraft News; sites broke -> no longer working)
+* App to display statistics parsed from website (Stats Tracker)
