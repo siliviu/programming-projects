@@ -26,6 +26,7 @@ Some projects are more polished than others, some may no longer work. The UI is 
 ### Dinosaur Game
 * Dodge the obstacles
 * Features animations made from scratch
+<img width="951" alt="Screenshot 2023-11-06 191852" src="https://github.com/siliviu/programming-projects/assets/24477832/7240776e-d8a2-49cc-ab22-e6b479b81edc">
 
 ### Draughts
 * Can be played with different rules
@@ -64,21 +65,32 @@ Some projects are more polished than others, some may no longer work. The UI is 
 * Simulates movement + collision of objects in 2D
 * Conserves momentum/kinetic energy
 * Can be used to approximate PI
+<img width="945" alt="Screenshot 2023-11-06 185817" src="https://github.com/siliviu/programming-projects/assets/24477832/cea73643-caac-4959-aa15-f2da26c67d38">
+<img width="565" alt="Screenshot 2023-11-06 185809" src="https://github.com/siliviu/programming-projects/assets/24477832/6d449960-1f55-4053-91cc-86e3beaf4cc6">
+
 
 ### English Quiz
 * Tries to estimate English level based on matching word definitions
+<img width="638" alt="Screenshot 2023-11-06 190700" src="https://github.com/siliviu/programming-projects/assets/24477832/df2ee6ab-6c08-4a56-9c5f-67ddfd2a34fe">
+<img width="628" alt="Screenshot 2023-11-06 190803" src="https://github.com/siliviu/programming-projects/assets/24477832/3cf41f2d-734c-4b0c-a757-f62b085a25d0">
+
 
 ### Memory Light Game
 * Remember the order in which the boxes flash and progress to the next level
+<img width="1133" alt="Screenshot 2023-11-06 191222" src="https://github.com/siliviu/programming-projects/assets/24477832/fa9b2710-a3ec-4327-937f-ad2d4d39227b">
 
 ### Sorting Visualiser
 * Features sound effects
 * Visualise Quick Sort, Merge Sort, Bubble Sort, Insertion Sort, Random Shuffling
+![Screenshot 2023-11-06 191449](https://github.com/siliviu/programming-projects/assets/24477832/75182d3e-c595-47bd-9581-33053602d51e)
 
 ### Unit Converter
 * First app made
 * Can convert between units of length, temperature and currency
 * Persistent settings, currency is up to date
+<img width="686" alt="Screenshot 2023-11-06 190001" src="https://github.com/siliviu/programming-projects/assets/24477832/e9a8d93c-0471-4e49-8de8-bb4ba144b354">
+<img width="686" alt="Screenshot 2023-11-06 190040" src="https://github.com/siliviu/programming-projects/assets/24477832/cd8d5e50-0c6b-4c74-bb19-d7f36584514f">
+
 
 ## Others
 
